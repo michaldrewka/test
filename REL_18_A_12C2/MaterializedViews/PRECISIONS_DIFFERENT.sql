@@ -1,0 +1,3 @@
+CREATE MATERIALIZED VIEW rel_18_a_12c2.precisions_different
+ON PREBUILT TABLE
+AS SELECT ANSWER FROM rel_18_a_12c2.master_table;
