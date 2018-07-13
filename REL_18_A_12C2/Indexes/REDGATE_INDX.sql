@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX rel_18_a_12c2.redgate_indx ON rel_18_a_12c2.testredgade("ID");
