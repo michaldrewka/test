@@ -1,0 +1,1 @@
+CREATE INDEX matthew_a.loc_country_ix ON matthew_a.locations(country_id);

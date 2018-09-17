@@ -1,0 +1,12 @@
+GRANT ALTER ON matthew_a.jobs TO scott;
+GRANT DEBUG ON matthew_a.jobs TO scott;
+GRANT DELETE ON matthew_a.jobs TO scott;
+GRANT FLASHBACK ON matthew_a.jobs TO scott;
+GRANT INDEX ON matthew_a.jobs TO scott;
+GRANT INSERT ON matthew_a.jobs TO scott;
+GRANT ON COMMIT REFRESH ON matthew_a.jobs TO scott;
+GRANT QUERY REWRITE ON matthew_a.jobs TO scott;
+GRANT REFERENCES ON matthew_a.jobs TO scott;
+GRANT SELECT ON matthew_a.jobs TO oe;
+GRANT SELECT ON matthew_a.jobs TO scott;
+GRANT UPDATE ON matthew_a.jobs TO scott;

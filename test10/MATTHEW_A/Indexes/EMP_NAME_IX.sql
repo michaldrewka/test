@@ -1,0 +1,1 @@
+CREATE INDEX matthew_a.emp_name_ix ON matthew_a.employees(last_name,first_name);
