@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX oc_michael_b.dept_id_pkx ON oc_michael_b.departments(department_id);
