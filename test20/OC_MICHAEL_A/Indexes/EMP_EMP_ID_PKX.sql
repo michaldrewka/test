@@ -1,1 +1,0 @@
-CREATE UNIQUE INDEX oc_michael_a.emp_emp_id_pkx ON oc_michael_a.employees(employee_id);
