@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX oc_michael_a.reg_id_pkx ON oc_michael_a.regions(region_id);

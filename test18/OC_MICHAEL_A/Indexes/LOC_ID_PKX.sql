@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX oc_michael_a.loc_id_pkx ON oc_michael_a.locations(location_id);
