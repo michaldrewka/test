@@ -1,0 +1,13 @@
+GRANT ALTER ON oc_michael_a.locations TO scott;
+GRANT DEBUG ON oc_michael_a.locations TO scott;
+GRANT DELETE ON oc_michael_a.locations TO scott;
+GRANT FLASHBACK ON oc_michael_a.locations TO scott;
+GRANT INDEX ON oc_michael_a.locations TO scott;
+GRANT INSERT ON oc_michael_a.locations TO scott;
+GRANT ON COMMIT REFRESH ON oc_michael_a.locations TO scott;
+GRANT QUERY REWRITE ON oc_michael_a.locations TO scott;
+GRANT REFERENCES ON oc_michael_a.locations TO oe;
+GRANT REFERENCES ON oc_michael_a.locations TO scott;
+GRANT SELECT ON oc_michael_a.locations TO oe;
+GRANT SELECT ON oc_michael_a.locations TO scott;
+GRANT UPDATE ON oc_michael_a.locations TO scott;

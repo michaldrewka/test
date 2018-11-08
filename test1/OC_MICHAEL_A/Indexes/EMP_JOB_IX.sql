@@ -1,0 +1,1 @@
+CREATE INDEX oc_michael_a.emp_job_ix ON oc_michael_a.employees(job_id);

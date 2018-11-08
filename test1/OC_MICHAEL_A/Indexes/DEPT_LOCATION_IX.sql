@@ -1,0 +1,1 @@
+CREATE INDEX oc_michael_a.dept_location_ix ON oc_michael_a.departments(location_id);
