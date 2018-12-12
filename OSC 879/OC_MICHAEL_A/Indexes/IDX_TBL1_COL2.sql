@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX oc_michael_a.idx_tbl1_col2 ON oc_michael_a.table1(col2);
