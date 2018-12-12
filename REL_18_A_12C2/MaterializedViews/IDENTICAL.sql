@@ -1,3 +1,0 @@
-CREATE MATERIALIZED VIEW rel_18_a_12c2.identical (answer)
-ORGANIZATION HEAP 
-AS SELECT ANSWER FROM rel_18_a_12c2.master_table;

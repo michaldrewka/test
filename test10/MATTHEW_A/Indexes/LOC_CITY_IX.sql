@@ -1,1 +1,0 @@
-CREATE INDEX matthew_a.loc_city_ix ON matthew_a.locations(city);

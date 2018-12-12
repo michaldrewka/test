@@ -1,1 +1,0 @@
-CREATE INDEX oc_michael_a.loc_city_ix ON oc_michael_a.locations(city);

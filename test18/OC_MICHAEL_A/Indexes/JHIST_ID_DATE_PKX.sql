@@ -1,1 +1,0 @@
-CREATE UNIQUE INDEX oc_michael_a.jhist_id_date_pkx ON oc_michael_a.job_history(employee_id,start_date);

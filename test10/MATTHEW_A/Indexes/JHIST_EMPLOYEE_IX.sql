@@ -1,1 +1,0 @@
-CREATE INDEX matthew_a.jhist_employee_ix ON matthew_a.job_history(employee_id);
