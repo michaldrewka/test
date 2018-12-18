@@ -1,7 +1,8 @@
 {
   "filters": {
     "table": [
-      "TABLE1"
+      "TABLE1",
+      "TABLE2"
     ]
   }
 }
