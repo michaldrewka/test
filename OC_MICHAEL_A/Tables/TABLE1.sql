@@ -4,6 +4,3 @@ CREATE TABLE oc_michael_a.table1 (
   col3 VARCHAR2(20 BYTE),
   CONSTRAINT col1_pk PRIMARY KEY (col1)
 );
-COMMENT ON COLUMN oc_michael_a.table1.col1 IS 'this is a comment';
-COMMENT ON COLUMN oc_michael_a.table1.col2 IS 'this is a comment 
-';
