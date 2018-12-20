@@ -1,0 +1,3 @@
+CREATE MATERIALIZED VIEW oc_michael_a.identical ("ID",col1,col2,col3)
+ORGANIZATION HEAP 
+AS SELECT "TAB1"."ID" "ID","TAB1"."COL1" "COL1","TAB1"."COL2" "COL2","TAB1"."COL3" "COL3" FROM oc_michael_a."TAB1" "TAB1";

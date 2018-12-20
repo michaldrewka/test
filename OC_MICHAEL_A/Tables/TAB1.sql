@@ -1,0 +1,7 @@
+CREATE TABLE oc_michael_a.tab1 (
+  "ID" NUMBER(*,0) NOT NULL,
+  col1 VARCHAR2(20 BYTE),
+  col2 VARCHAR2(20 BYTE),
+  col3 VARCHAR2(20 BYTE),
+  PRIMARY KEY ("ID")
+);
