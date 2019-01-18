@@ -1,6 +1,0 @@
-CREATE TABLE oc_michael_a.sales_ac1 (
-  sale_id NUMBER(10),
-  customer_id NUMBER(10)
-) CLUSTERING 
-BY LINEAR ORDER (CUSTOMER_ID)
- YES ON LOAD YES ON DATA MOVEMENT;
