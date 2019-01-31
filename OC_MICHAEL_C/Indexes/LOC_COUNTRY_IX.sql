@@ -1,0 +1,1 @@
+CREATE INDEX oc_michael_c.loc_country_ix ON oc_michael_c.locations(country_id);

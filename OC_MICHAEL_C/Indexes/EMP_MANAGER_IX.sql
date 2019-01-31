@@ -1,0 +1,1 @@
+CREATE INDEX oc_michael_c.emp_manager_ix ON oc_michael_c.employees(manager_id);

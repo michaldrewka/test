@@ -1,0 +1,1 @@
+CREATE SEQUENCE oc_michael_c.departments_seq INCREMENT BY 10 MAXVALUE 9990 NOCACHE;
