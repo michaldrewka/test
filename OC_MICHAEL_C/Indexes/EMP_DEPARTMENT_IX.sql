@@ -1,1 +1,0 @@
-CREATE INDEX oc_michael_c.emp_department_ix ON oc_michael_c.employees(department_id);

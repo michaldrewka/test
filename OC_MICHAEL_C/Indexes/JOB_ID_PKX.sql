@@ -1,1 +1,0 @@
-CREATE UNIQUE INDEX oc_michael_c.job_id_pkx ON oc_michael_c.jobs(job_id);

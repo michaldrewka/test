@@ -1,1 +1,0 @@
-CREATE SEQUENCE oc_michael_c.employees_seq NOCACHE;

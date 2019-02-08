@@ -1,1 +1,0 @@
-CREATE UNIQUE INDEX oc_michael_c.country_c_id_pkx ON oc_michael_c.countries(country_id);
