@@ -1,0 +1,1 @@
+CREATE INDEX oc_michael_c.idx_table1_col2 ON oc_michael_c.table1(col2);
