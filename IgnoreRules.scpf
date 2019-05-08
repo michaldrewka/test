@@ -1,0 +1,8 @@
+{
+  "filters": {
+    "table": [
+      "Table1",
+      "Table2"
+    ]
+  }
+}
