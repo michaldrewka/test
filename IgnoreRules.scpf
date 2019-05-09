@@ -3,6 +3,9 @@
     "table": [
       "Table1",
       "Table2"
+    ],
+    "publicSynonym": [
+      "test"
     ]
   }
 }
