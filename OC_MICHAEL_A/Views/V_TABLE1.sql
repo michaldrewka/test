@@ -1,2 +1,0 @@
-CREATE OR REPLACE FORCE VIEW v_table1 (col1,col2) AS
-SELECT "COL1","COL2" FROM table1;
