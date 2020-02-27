@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_col_comments TO apex_030200;

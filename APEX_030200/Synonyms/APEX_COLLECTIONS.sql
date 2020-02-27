@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_collections FOR wwv_flow_collections;

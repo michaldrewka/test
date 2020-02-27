@@ -1,0 +1,1 @@
+GRANT EXECUTE ON ctxsys.ctx_ddl TO apex_030200 WITH GRANT OPTION;

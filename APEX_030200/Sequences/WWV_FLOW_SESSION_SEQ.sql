@@ -1,0 +1,1 @@
+CREATE SEQUENCE wwv_flow_session_seq;

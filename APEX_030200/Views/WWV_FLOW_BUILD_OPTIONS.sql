@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE VIEW wwv_flow_build_options ("ID",flow_id,patch_name,patch_status,security_group_id,default_on_export,attribute1,attribute2,attribute3,attribute4,last_updated_by,last_updated_on,patch_comment) AS
+select "ID","FLOW_ID","PATCH_NAME","PATCH_STATUS","SECURITY_GROUP_ID","DEFAULT_ON_EXPORT","ATTRIBUTE1","ATTRIBUTE2","ATTRIBUTE3","ATTRIBUTE4","LAST_UPDATED_BY","LAST_UPDATED_ON","PATCH_COMMENT" from wwv_flow_patches;

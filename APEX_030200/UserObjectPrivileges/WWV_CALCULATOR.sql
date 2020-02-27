@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_030200.wwv_calculator TO PUBLIC;

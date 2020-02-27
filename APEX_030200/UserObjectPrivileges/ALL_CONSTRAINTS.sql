@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_constraints TO apex_030200;

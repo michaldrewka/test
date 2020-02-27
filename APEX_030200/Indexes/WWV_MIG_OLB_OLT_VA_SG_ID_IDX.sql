@@ -1,0 +1,5 @@
+CREATE INDEX wwv_mig_olb_olt_va_sg_id_idx ON wwv_mig_olb_olt_visualattrbute(security_group_id)
+NOCOMPRESS
+PCTFREE 10 INITRANS 2 LOGGING
+STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+TABLESPACE "SYSAUX";

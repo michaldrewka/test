@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_030200.wwv_flow_instance_admin TO apex_administrator_role;

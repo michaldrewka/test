@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_sequences TO apex_030200;

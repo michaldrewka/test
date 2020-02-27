@@ -1,0 +1,68 @@
+CREATE TABLE wwv_mig_acc_reports (
+  "ID" NUMBER NOT NULL,
+  project_id NUMBER,
+  security_group_id NUMBER,
+  dbid NUMBER NOT NULL,
+  reportid NUMBER(11) NOT NULL,
+  repname VARCHAR2(1000 BYTE),
+  backcolor NUMBER(11),
+  repcaption VARCHAR2(1000 BYTE),
+  "COUNT" NUMBER,
+  dategrouping NUMBER(11),
+  fastlaserprinting NUMBER(11),
+  "FILTER" VARCHAR2(4000 BYTE),
+  filteron NUMBER(11),
+  gridx NUMBER(11),
+  gridy NUMBER(11),
+  grpkeeptogether NUMBER(11),
+  hasmodule NUMBER(1),
+  helpcontextid NUMBER(11),
+  helpfile VARCHAR2(4000 BYTE),
+  hwnd NUMBER(11),
+  layoutforprint NUMBER(11),
+  logicalpagewidth NUMBER(11),
+  maxbutton NUMBER(11),
+  menubar VARCHAR2(4000 BYTE),
+  minbutton NUMBER(11),
+  onactivate VARCHAR2(4000 BYTE),
+  onclose VARCHAR2(4000 BYTE),
+  ondeactivate VARCHAR2(4000 BYTE),
+  onerror VARCHAR2(4000 BYTE),
+  onnodata VARCHAR2(4000 BYTE),
+  onopen VARCHAR2(4000 BYTE),
+  onpage VARCHAR2(4000 BYTE),
+  orderby VARCHAR2(4000 BYTE),
+  orderbyon VARCHAR2(4000 BYTE),
+  pagefooter NUMBER,
+  pageheader NUMBER,
+  painting NUMBER,
+  palettesource VARCHAR2(1000 BYTE),
+  picture VARCHAR2(1000 BYTE),
+  picturealignment NUMBER(11),
+  picturesizemode NUMBER(11),
+  picturetiling NUMBER(11),
+  picturetype NUMBER(11),
+  recordlocks NUMBER(11),
+  recordsource VARCHAR2(2000 BYTE),
+  shortcutmenubar VARCHAR2(4000 BYTE),
+  "TAG" VARCHAR2(4000 BYTE),
+  toolbar VARCHAR2(4000 BYTE),
+  "VISIBLE" NUMBER(11),
+  width NUMBER(11),
+  created_on DATE,
+  created_by VARCHAR2(400 BYTE),
+  last_updated_on DATE,
+  last_updated_by VARCHAR2(400 BYTE),
+  CONSTRAINT wwv_mig_acc_reports_pk PRIMARY KEY ("ID") USING INDEX NOCOMPRESS
+    PCTFREE 10 INITRANS 2 LOGGING
+    STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+    TABLESPACE "SYSAUX",
+  CONSTRAINT wwv_mig_acc_reports_uk1 UNIQUE (project_id,dbid,reportid) USING INDEX NOCOMPRESS
+    PCTFREE 10 INITRANS 2 LOGGING
+    STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+    TABLESPACE "SYSAUX",
+  CONSTRAINT wwv_mig_acc_reports_fk FOREIGN KEY (project_id,dbid) REFERENCES wwv_mig_access (project_id,dbid) ON DELETE CASCADE
+) NOCOMPRESS
+PCTFREE 10 INITRANS 1 LOGGING
+STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+TABLESPACE "SYSAUX";

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_snapshots TO apex_030200;

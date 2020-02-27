@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_triggers TO apex_030200;

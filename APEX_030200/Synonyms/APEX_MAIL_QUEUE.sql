@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_mail_queue FOR wwv_flow_user_mail_queue;

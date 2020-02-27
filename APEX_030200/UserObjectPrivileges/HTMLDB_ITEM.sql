@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_030200.htmldb_item TO PUBLIC;

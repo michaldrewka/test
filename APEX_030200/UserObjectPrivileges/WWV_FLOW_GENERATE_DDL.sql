@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_030200.wwv_flow_generate_ddl TO PUBLIC;

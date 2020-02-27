@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.utl_smtp TO apex_030200;

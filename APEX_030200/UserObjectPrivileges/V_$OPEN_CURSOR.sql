@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$open_cursor TO apex_030200;

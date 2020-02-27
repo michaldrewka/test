@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$session TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$parameter TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_030200.wwv_flow_list_of_values_data_v TO PUBLIC;

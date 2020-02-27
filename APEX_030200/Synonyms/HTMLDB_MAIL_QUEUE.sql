@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM htmldb_mail_queue FOR wwv_flow_user_mail_queue;

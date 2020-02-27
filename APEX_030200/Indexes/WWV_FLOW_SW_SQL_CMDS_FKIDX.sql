@@ -1,0 +1,5 @@
+CREATE UNIQUE INDEX wwv_flow_sw_sql_cmds_fkidx ON wwv_flow_sw_sql_cmds(security_group_id,parsed_schema,"ID")
+NOCOMPRESS
+PCTFREE 10 INITRANS 2 LOGGING
+STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+TABLESPACE "SYSAUX";

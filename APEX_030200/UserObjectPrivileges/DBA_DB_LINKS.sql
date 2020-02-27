@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_db_links TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$process TO apex_030200;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_item FOR htmldb_item;

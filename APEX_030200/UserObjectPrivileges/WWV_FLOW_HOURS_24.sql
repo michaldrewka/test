@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_030200.wwv_flow_hours_24 TO PUBLIC;

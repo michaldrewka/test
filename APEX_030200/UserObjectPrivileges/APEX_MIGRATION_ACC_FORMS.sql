@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_030200.apex_migration_acc_forms TO PUBLIC;

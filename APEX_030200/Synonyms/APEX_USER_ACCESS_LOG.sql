@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_user_access_log FOR wwv_flow_user_access_log;

@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_030200.apex_workspace_access_log TO PUBLIC;

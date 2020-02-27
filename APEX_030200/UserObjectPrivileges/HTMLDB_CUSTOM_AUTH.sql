@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_030200.htmldb_custom_auth TO PUBLIC;

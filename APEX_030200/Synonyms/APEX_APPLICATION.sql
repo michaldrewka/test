@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_application FOR wwv_flow;

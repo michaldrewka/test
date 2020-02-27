@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.dbms_lock TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT SELECT ON apex_030200.apex_application_supp_obj_bopt TO PUBLIC;

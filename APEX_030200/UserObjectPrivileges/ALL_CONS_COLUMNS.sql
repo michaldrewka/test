@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.all_cons_columns TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.obj$ TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_free_space TO apex_030200;

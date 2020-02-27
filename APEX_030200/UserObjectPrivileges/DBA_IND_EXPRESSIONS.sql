@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_ind_expressions TO apex_030200;

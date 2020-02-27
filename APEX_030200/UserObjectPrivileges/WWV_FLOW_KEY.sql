@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.wwv_flow_key TO apex_030200;

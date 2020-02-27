@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM htf FOR sys.htf;

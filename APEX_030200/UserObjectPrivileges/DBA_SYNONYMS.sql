@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_synonyms TO apex_030200;

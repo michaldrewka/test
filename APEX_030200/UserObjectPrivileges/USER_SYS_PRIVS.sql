@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.user_sys_privs TO apex_030200;

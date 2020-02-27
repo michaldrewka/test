@@ -1,0 +1,29 @@
+CREATE OR REPLACE package body wwv_flow_regexp wrapped
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+311 20f
+uxMdy2sukgixbrSOTJgQJoRVa5swg/AJ2UgVfC+KlKqVh8Vn5vPp7YlNW7d+rFyGoj8vI8LD
+KulN4ysQs3JkC+bKUPJV1gCDpHKDhtfe9YBeRqFvmoTMR3kVAxXyWVL3tuXnqPTz98lYpujY
+ZUJBofB/Wndgnr9WhlpEOBhZfAGsqW1F6GOvyA7jukmEEVE710YlwsFEwApl7+/YfLZ8sGXs
+Ca2rd5VuJ/DiNQp99nMPuVxDvlwj6P1IuyNXdjM4z5kVuBw86rvdJvs1/Kllcep3RsBDGeve
+d3Hi+GnR6v20SJ2K65IB9pqXATpzq1akMLVxqsOJTJfi6nIBIM8qqQhNLOa+QnSYhwreTETR
+fGWrN9fJBIL8aVWXFhsl1Kevrx1kN23nTpfU7dx/6ftYQVHDjzwbu2GqhLsQwLjbEdRYyU2s
+MODB3L6S3/+5L0V4rwHEPRcsOzVX5WvHm18MWCct5I8UmFsYtLsNGQ+dd3QTLGOlVJDdky9y
+IrOelj+mcOjE+w==
+/

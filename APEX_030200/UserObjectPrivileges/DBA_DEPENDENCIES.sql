@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.dba_dependencies TO apex_030200;

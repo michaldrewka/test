@@ -1,0 +1,1 @@
+GRANT SELECT ON sys.v_$locked_object TO apex_030200;

@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.dbms_lob TO apex_030200;

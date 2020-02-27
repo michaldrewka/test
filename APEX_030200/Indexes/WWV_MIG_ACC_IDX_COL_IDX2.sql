@@ -1,0 +1,5 @@
+CREATE INDEX wwv_mig_acc_idx_col_idx2 ON wwv_mig_acc_indexes_cols(project_id,dbid,tblid,indid)
+NOCOMPRESS
+PCTFREE 10 INITRANS 2 LOGGING
+STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+TABLESPACE "SYSAUX";

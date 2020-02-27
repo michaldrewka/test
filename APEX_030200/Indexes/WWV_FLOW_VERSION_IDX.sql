@@ -1,0 +1,5 @@
+CREATE UNIQUE INDEX wwv_flow_version_idx ON wwv_flow_version$(major_version,minor_version,patch_version)
+NOCOMPRESS
+PCTFREE 10 INITRANS 2 LOGGING
+STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+TABLESPACE "SYSAUX";

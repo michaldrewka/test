@@ -1,0 +1,1 @@
+CREATE OR REPLACE SYNONYM apex_util FOR htmldb_util;

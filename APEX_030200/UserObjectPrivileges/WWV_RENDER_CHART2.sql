@@ -1,0 +1,1 @@
+GRANT EXECUTE ON apex_030200.wwv_render_chart2 TO PUBLIC;

@@ -1,0 +1,5 @@
+CREATE INDEX wwv_flow_fnd_user_group_fkidx ON wwv_flow_fnd_user_groups(security_group_id,group_name)
+NOCOMPRESS
+PCTFREE 10 INITRANS 2 LOGGING
+STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
+TABLESPACE "SYSAUX";

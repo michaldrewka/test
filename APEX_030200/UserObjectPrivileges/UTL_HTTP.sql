@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.utl_http TO apex_030200;
