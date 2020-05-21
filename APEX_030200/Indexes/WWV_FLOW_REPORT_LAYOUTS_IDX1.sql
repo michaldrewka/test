@@ -1,5 +1,0 @@
-CREATE INDEX wwv_flow_report_layouts_idx1 ON wwv_flow_report_layouts(flow_id,security_group_id)
-NOCOMPRESS
-PCTFREE 10 INITRANS 2 LOGGING
-STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
-TABLESPACE "SYSAUX";

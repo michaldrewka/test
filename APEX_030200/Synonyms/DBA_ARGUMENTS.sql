@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM dba_arguments FOR sys.dba_arguments;

@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_plsql_jobs FOR wwv_flow_plsql_jobs;

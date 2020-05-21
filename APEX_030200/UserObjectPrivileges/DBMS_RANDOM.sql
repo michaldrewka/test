@@ -1,1 +1,0 @@
-GRANT EXECUTE ON sys.dbms_random TO apex_030200;

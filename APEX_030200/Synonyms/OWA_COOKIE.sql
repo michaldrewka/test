@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM owa_cookie FOR sys.owa_cookie;

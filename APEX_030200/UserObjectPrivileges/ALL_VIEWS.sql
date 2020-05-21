@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.all_views TO apex_030200;

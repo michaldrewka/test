@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM utl_raw FOR sys.utl_raw;

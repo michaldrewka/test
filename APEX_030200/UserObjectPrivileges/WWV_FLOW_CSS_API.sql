@@ -1,1 +1,0 @@
-GRANT EXECUTE ON apex_030200.wwv_flow_css_api TO PUBLIC;

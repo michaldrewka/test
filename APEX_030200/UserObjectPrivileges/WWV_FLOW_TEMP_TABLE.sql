@@ -1,1 +1,0 @@
-GRANT SELECT ON apex_030200.wwv_flow_temp_table TO PUBLIC;

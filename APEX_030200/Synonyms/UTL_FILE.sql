@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM utl_file FOR sys.utl_file;

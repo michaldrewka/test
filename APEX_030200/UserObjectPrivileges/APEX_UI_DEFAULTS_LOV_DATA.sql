@@ -1,1 +1,0 @@
-GRANT SELECT ON apex_030200.apex_ui_defaults_lov_data TO PUBLIC;

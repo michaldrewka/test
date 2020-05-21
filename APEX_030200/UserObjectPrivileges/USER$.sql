@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.user$ TO apex_030200;

@@ -1,1 +1,0 @@
-GRANT EXECUTE ON sys.wwv_dbms_sql TO apex_030200;

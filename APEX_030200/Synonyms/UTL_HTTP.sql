@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM utl_http FOR sys.utl_http;

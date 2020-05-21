@@ -1,1 +1,0 @@
-GRANT EXECUTE ON sys.dbms_flashback TO apex_030200;

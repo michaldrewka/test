@@ -1,6 +1,0 @@
-CREATE GLOBAL TEMPORARY TABLE wwv_flow_lov_temp (
-  insert_order NUMBER,
-  disp VARCHAR2(4000 BYTE),
-  val VARCHAR2(4000 BYTE)
-)
-ON COMMIT DELETE ROWS;

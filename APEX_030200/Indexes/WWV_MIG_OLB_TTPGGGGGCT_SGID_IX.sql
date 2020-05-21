@@ -1,5 +1,0 @@
-CREATE INDEX wwv_mig_olb_ttpgggggct_sgid_ix ON wwv_mig_olb_t_tp_ggggg_cpdtxt(security_group_id)
-NOCOMPRESS
-PCTFREE 10 INITRANS 2 LOGGING
-STORAGE(FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT)
-TABLESPACE "SYSAUX";

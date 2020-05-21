@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_mail FOR wwv_flow_mail;

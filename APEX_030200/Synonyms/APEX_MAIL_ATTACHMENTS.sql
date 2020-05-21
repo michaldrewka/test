@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_mail_attachments FOR wwv_flow_user_mail_attachments;

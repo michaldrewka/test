@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_ldap FOR wwv_flow_ldap;

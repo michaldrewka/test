@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_custom_auth FOR htmldb_custom_auth;

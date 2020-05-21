@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_objects TO apex_030200;

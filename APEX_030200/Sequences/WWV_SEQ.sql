@@ -1,1 +1,0 @@
-CREATE SEQUENCE wwv_seq;

@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_application_files FOR wwv_flow_files;

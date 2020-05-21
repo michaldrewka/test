@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_mail_log FOR wwv_flow_user_mail_log;

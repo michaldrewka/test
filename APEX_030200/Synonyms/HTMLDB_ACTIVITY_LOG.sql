@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_activity_log FOR wwv_flow_user_activity_log;

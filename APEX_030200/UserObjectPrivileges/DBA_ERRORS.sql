@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_errors TO apex_030200;

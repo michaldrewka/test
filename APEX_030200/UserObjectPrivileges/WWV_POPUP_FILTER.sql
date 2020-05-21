@@ -1,1 +1,0 @@
-GRANT EXECUTE ON apex_030200.wwv_popup_filter TO PUBLIC;

@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM owa_util FOR sys.owa_util;

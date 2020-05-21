@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_collection FOR wwv_flow_collection;

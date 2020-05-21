@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_col_privs TO apex_030200;

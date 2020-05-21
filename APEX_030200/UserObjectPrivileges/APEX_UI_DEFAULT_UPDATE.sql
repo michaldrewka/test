@@ -1,1 +1,0 @@
-GRANT EXECUTE ON apex_030200.apex_ui_default_update TO PUBLIC;

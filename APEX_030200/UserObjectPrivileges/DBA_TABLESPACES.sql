@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_tablespaces TO apex_030200;

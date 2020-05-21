@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_application_global FOR wwv_flow_global;

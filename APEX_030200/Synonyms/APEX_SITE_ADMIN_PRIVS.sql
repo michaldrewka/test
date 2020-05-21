@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_site_admin_privs FOR htmldb_site_admin_privs;

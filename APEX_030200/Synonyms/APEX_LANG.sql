@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_lang FOR htmldb_lang;

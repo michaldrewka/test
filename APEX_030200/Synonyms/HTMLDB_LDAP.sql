@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_ldap FOR wwv_flow_ldap;

@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_rsrc_plan_directives TO apex_030200;

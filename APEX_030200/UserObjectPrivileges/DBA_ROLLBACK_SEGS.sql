@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_rollback_segs TO apex_030200;

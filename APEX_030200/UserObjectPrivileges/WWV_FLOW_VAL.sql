@@ -1,1 +1,0 @@
-GRANT EXECUTE ON sys.wwv_flow_val TO apex_030200;

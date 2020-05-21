@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM utl_encode FOR sys.utl_encode;

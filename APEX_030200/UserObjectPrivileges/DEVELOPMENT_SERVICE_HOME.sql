@@ -1,1 +1,0 @@
-GRANT EXECUTE ON apex_030200.development_service_home TO PUBLIC;

@@ -1,1 +1,0 @@
-GRANT EXECUTE ON apex_030200.wwv_flow_file_api TO flows_files;

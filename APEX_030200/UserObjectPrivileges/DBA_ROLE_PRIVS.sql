@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_role_privs TO apex_030200;

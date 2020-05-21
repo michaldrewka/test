@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.all_sequences TO apex_030200;

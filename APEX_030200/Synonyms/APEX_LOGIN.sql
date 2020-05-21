@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM apex_login FOR htmldb_login;

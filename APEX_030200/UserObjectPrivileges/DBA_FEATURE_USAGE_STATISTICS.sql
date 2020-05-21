@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_feature_usage_statistics TO apex_030200;

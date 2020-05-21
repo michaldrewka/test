@@ -1,1 +1,0 @@
-CREATE OR REPLACE SYNONYM htmldb_mail FOR wwv_flow_mail;

@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.v_$sysstat TO apex_030200;

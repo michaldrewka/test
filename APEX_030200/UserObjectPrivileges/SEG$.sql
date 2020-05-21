@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.seg$ TO apex_030200;

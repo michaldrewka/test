@@ -1,1 +1,0 @@
-GRANT SELECT ON sys.dba_tab_columns TO apex_030200;

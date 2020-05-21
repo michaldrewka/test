@@ -1,1 +1,0 @@
-GRANT EXECUTE ON ctxsys.ctx_doc TO apex_030200 WITH GRANT OPTION;
