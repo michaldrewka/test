@@ -1,0 +1,1 @@
+GRANT EXECUTE ON sys.dbms_aq_bqview TO oc_advanced_queuing_a;
