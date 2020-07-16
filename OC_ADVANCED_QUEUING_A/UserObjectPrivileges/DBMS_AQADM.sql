@@ -1,1 +1,0 @@
-GRANT EXECUTE ON sys.dbms_aqadm TO oc_advanced_queuing_a;

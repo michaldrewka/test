@@ -1,1 +1,0 @@
-GRANT INHERIT PRIVILEGES ON USER oc_advanced_queuing_a TO PUBLIC;
