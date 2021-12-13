@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE NONEDITIONABLE EDITIONING VIEW oc_michael_a.editioning_different (col1) AS
+SELECT * FROM Table2;
