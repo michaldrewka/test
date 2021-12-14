@@ -1,0 +1,1 @@
+CREATE OR REPLACE PUBLIC SYNONYM env_bo FOR oc_michael_b.env@BO_DL;
