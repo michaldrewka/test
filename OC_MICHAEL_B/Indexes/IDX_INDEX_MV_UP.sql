@@ -1,1 +1,0 @@
-CREATE INDEX oc_michael_b.idx_index_mv_up ON oc_michael_b.index_mv_up(UPPER("TEA"));
