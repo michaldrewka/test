@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+Source Control for Oracle
+Source Control For Oracle
+Version:6.0.18.1816-->
+<Filter version="1" type="Filter">
+  <exclude type="ExcludeList" version="2">
+    <value version="2" type="ExcludeType">
+      <object>Schedule</object>
+    </value>
+  </exclude>
+  <excludeContaining />
+  <includeContaining />
+</Filter>
