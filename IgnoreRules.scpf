@@ -1,7 +1,3 @@
 {
-  "filters": {
-    "schedule": [
-      "^hourly_sched4$"
-    ]
-  }
+  "filters": {}
 }
